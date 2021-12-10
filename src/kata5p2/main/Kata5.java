@@ -4,7 +4,7 @@ import java.util.List;
 import kata5p2.model.*;
 import kata5p2.view.*;
 
-public class Kata4 {
+public class Kata5 {
     public static void main(String[] args) {
         List<Mail> correos = input();
         Histogram<String> histograma = process(correos);

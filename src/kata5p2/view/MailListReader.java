@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import kata5p2.model.*;
+import kata5p2.model.Mail;
 
 public class MailListReader {
     public static List<Mail> read(String fileName){
